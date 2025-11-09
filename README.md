@@ -258,6 +258,13 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🌐 DNS & Domain Management
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-Configuration-1C1C1E?style=for-the-badge&logo=dns&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS-Certificates-009639?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+**Expertise:** DNS configuration, nameserver management, SSL/TLS setup, domain troubleshooting, Cloudflare optimization, DNS record management (A, AAAA, CNAME, MX, TXT, etc.)
+
 ### 🔐 Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -295,6 +302,16 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 
 Proven track record with major Ethereum projects. Available for translation projects, localization, and multilingual content creation.
 
+### 🔧 Domain & DNS Management Services
+**DNS Configuration** | **Cloudflare Setup** | **SSL/TLS Certificates** | **Domain Troubleshooting**
+
+Expert in domain infrastructure management. Services include:
+- DNS configuration and nameserver management
+- SSL/TLS certificate setup and renewal
+- Cloudflare configuration and optimization
+- Domain troubleshooting and migration
+- DNS record management (A, AAAA, CNAME, MX, TXT, etc.)
+
 </div>
 
 ---
@@ -303,7 +320,7 @@ Proven track record with major Ethereum projects. Available for translation proj
 
 <div align="center">
 
-**¿Tienes un proyecto en mente? ¿Necesitas traducciones profesionales? ¡Hablemos!**
+**¿Tienes un proyecto en mente? ¿Necesitas traducciones profesionales o configuración de dominios/DNS? ¡Hablemos!**
 
 [![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rulo.pro)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
