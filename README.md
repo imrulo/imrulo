@@ -302,15 +302,25 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 
 Proven track record with major Ethereum projects. Available for translation projects, localization, and multilingual content creation.
 
-### 🔧 Domain & DNS Management Services
-**DNS Configuration** | **Cloudflare Setup** | **SSL/TLS Certificates** | **Domain Troubleshooting**
+### 🔧 Domain & DNS Setup
 
-Expert in domain infrastructure management. Services include:
-- DNS configuration and nameserver management
-- SSL/TLS certificate setup and renewal
-- Cloudflare configuration and optimization
-- Domain troubleshooting and migration
-- DNS record management (A, AAAA, CNAME, MX, TXT, etc.)
+**Description:**
+
+I handle the full technical setup of your domain — from DNS configuration and Cloudflare optimization to SSL certificate installation and troubleshooting connection issues. Whether you need to point your domain to a new host, fix email deliverability, or secure your website, I make sure everything works seamlessly.
+
+**Includes:**
+
+- DNS record configuration (A, CNAME, MX, TXT, etc.)
+- Cloudflare setup and optimization
+- SSL certificate activation (HTTPS)
+- Troubleshooting and redirect fixes
+- Domain redirection and propagation checks
+
+**Ideal for:**
+
+Entrepreneurs, startups, and agencies that want their domain working perfectly — fast and securely.
+
+**Starting price:** 💶 From €50 per setup (depending on complexity)
 
 </div>
 
