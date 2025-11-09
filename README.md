@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy imrulo.eth
 
-### 🎯 Desarrollador Full-Stack | Blockchain Enthusiast | Domain Investor
+### 🎯 Desarrollador Full-Stack | Blockchain Enthusiast | Domain Investor | Spanish Translator
 
 **Donde tú ves un reto, yo veo una oportunidad de crecimiento.**
 
@@ -10,6 +10,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 [![ENS](https://img.shields.io/badge/ENS-imrulo.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/imrulo.eth)
+
+---
 
 </div>
 
@@ -32,18 +34,22 @@ Construyo productos digitales que resuelven problemas reales y crean valor. Mi e
 
 Contribuyo activamente a proyectos open source de la comunidad blockchain, haciendo que la tecnología sea más accesible para la comunidad hispanohablante.
 
-### 🌐 Official Spanish Translator
+### 🌐 Spanish Translations
 
 <div align="center">
 
-[![ENS Domains](https://img.shields.io/badge/ENS_Domains-Official%20Spanish%20Translator-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](http://ens.domains)
-[![EFP](https://img.shields.io/badge/EFP-Official%20Spanish%20Translator-FF6B6B?style=for-the-badge)](https://efp.app/)
+[![ENS Domains](https://img.shields.io/badge/ENS_Domains-Spanish%20Translation-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](http://ens.domains)
+[![EFP](https://img.shields.io/badge/EFP-Spanish%20Translation-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)](https://efp.app/)
 
 </div>
 
-**Official Spanish translator for [ENS Domains](http://ens.domains) & [EFP](https://efp.app/)**
+**Realicé la traducción completa al español para [ENS Domains](http://ens.domains) y [EFP](https://efp.app/)**, dos proyectos fundamentales del ecosistema Ethereum. Estas contribuciones han ayudado a democratizar el acceso a la tecnología blockchain para millones de usuarios hispanohablantes.
 
-Trabajo como traductor oficial en español para proyectos clave del ecosistema Ethereum, ayudando a democratizar el acceso a la tecnología blockchain para millones de usuarios hispanohablantes.
+<div align="center">
+
+**💼 Disponible para proyectos de traducción** | **🌐 Español nativo** | **🔗 Referencias verificables**
+
+</div>
 
 ---
 
@@ -280,11 +286,24 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 
 ---
 
+## 💼 Services & Availability
+
+<div align="center">
+
+### 🌐 Translation Services
+**Spanish Translation Specialist** | **Blockchain & Web3 Expertise** | **Open Source Contributor**
+
+Proven track record with major Ethereum projects. Available for translation projects, localization, and multilingual content creation.
+
+</div>
+
+---
+
 ## 📫 Contact
 
 <div align="center">
 
-**¿Tienes un proyecto en mente? ¡Hablemos!**
+**¿Tienes un proyecto en mente? ¿Necesitas traducciones profesionales? ¡Hablemos!**
 
 [![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rulo.pro)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
