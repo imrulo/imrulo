@@ -36,12 +36,12 @@ Contribuyo activamente a proyectos open source de la comunidad blockchain, hacie
 
 <div align="center">
 
-[![ENS Domains](https://img.shields.io/badge/ENS_Domains-Official%20Spanish%20Translator-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/ensdomains)
-[![EFP](https://img.shields.io/badge/EFP-Official%20Spanish%20Translator-FF6B6B?style=for-the-badge)](https://github.com/ethereum)
+[![ENS Domains](https://img.shields.io/badge/ENS_Domains-Official%20Spanish%20Translator-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](http://ens.domains)
+[![EFP](https://img.shields.io/badge/EFP-Official%20Spanish%20Translator-FF6B6B?style=for-the-badge)](https://efp.app/)
 
 </div>
 
-**Official Spanish translator for [@ensdomains](https://github.com/ensdomains) & [@efp](https://github.com/ethereum)** — *Me llena de orgullo* ✨
+**Official Spanish translator for [ENS Domains](http://ens.domains) & [EFP](https://efp.app/)**
 
 Trabajo como traductor oficial en español para proyectos clave del ecosistema Ethereum, ayudando a democratizar el acceso a la tecnología blockchain para millones de usuarios hispanohablantes.
 
