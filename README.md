@@ -28,6 +28,25 @@ Construyo productos digitales que resuelven problemas reales y crean valor. Mi e
 
 ---
 
+## 🌍 Open Source Contributions
+
+Contribuyo activamente a proyectos open source de la comunidad blockchain, haciendo que la tecnología sea más accesible para la comunidad hispanohablante.
+
+### 🌐 Official Spanish Translator
+
+<div align="center">
+
+[![ENS Domains](https://img.shields.io/badge/ENS_Domains-Official%20Spanish%20Translator-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/ensdomains)
+[![EFP](https://img.shields.io/badge/EFP-Official%20Spanish%20Translator-FF6B6B?style=for-the-badge)](https://github.com/ethereum)
+
+</div>
+
+**Official Spanish translator for [@ensdomains](https://github.com/ensdomains) & [@efp](https://github.com/ethereum)** — *Me llena de orgullo* ✨
+
+Trabajo como traductor oficial en español para proyectos clave del ecosistema Ethereum, ayudando a democratizar el acceso a la tecnología blockchain para millones de usuarios hispanohablantes.
+
+---
+
 ## 🌐 Domain Portfolio
 
 Mi colección de dominios premium, cuidadosamente seleccionados para proyectos innovadores en tecnología, IA, blockchain y más.
