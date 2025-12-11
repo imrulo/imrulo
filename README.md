@@ -271,20 +271,6 @@ A curated collection of premium domains tailored for innovative ventures in AI, 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imrulo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrulo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=imrulo&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
