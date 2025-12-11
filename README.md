@@ -270,7 +270,7 @@ A curated collection of premium domains tailored for innovative ventures in AI, 
 
 ### ☁️ Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🌐 DNS & Domain Engineering
