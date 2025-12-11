@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hola, soy imrulo.eth
+# 👋 Hello, I'm imrulo.eth
 
-### 🎯 Desarrollador Full-Stack | Blockchain Enthusiast | Domain Investor | Spanish Translator
+### 🎯 Full-Stack Developer | Blockchain Enthusiast | Domain Investor | English-Spanish Translator
 
-**Donde tú ves un reto, yo veo una oportunidad de crecimiento.**
+**Where others see challenges, I see opportunities for growth.**
 
 [![Website](https://img.shields.io/badge/Website-rulo.pro-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rulo.pro)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
@@ -19,22 +19,22 @@
 
 ## 🧠 What I Build
 
-Construyo productos digitales que resuelven problemas reales y crean valor. Mi enfoque combina tecnología de vanguardia con diseño centrado en el usuario.
+I engineer digital products that solve tangible problems and generate real value. My approach bridges cutting-edge technology with user-centric design principles.
 
-### 🚀 Proyectos Principales
+### 🚀 Flagship Projects
 
-- **[SaveTime.now](https://savetime.now)** - Plataforma de productividad y gestión del tiempo
-- **[Janeiro.ai](https://janeiro.ai)** - Soluciones de inteligencia artificial
-- **[Domain.industries](https://domain.industries)** - Portfolio y servicios de dominios premium
-- **[Rulo.pro](https://rulo.pro)** - Mi sitio personal y portfolio
+- **[SaveTime.now](https://savetime.now)** - A premier productivity and time management platform.
+- **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions.
+- **[Domain.industries](https://domain.industries)** - Premium domain portfolio and brokerage services.
+- **[Rulo.pro](https://rulo.pro)** - Personal portfolio and professional hub.
 
 ---
 
 ## 🌍 Open Source Contributions
 
-Contribuyo activamente a proyectos open source de la comunidad blockchain, haciendo que la tecnología sea más accesible para la comunidad hispanohablante.
+I am an active contributor to the open-source blockchain ecosystem, dedicated to making decentralized technology accessible to the Spanish-speaking community.
 
-### 🌐 Spanish Translations
+### 🌐 Localization High-Impact Contributions
 
 <div align="center">
 
@@ -43,11 +43,11 @@ Contribuyo activamente a proyectos open source de la comunidad blockchain, hacie
 
 </div>
 
-**Realicé la traducción completa al español para [ENS Domains](http://ens.domains) y [EFP](https://efp.app/)**, dos proyectos fundamentales del ecosistema Ethereum. Estas contribuciones han ayudado a democratizar el acceso a la tecnología blockchain para millones de usuarios hispanohablantes.
+**I spearheaded the complete Spanish localization for [ENS Domains](http://ens.domains) and [EFP](https://efp.app/)**, two cornerstone projects of the Ethereum ecosystem. These contributions have democratized access to blockchain technology for millions of Spanish speakers worldwide.
 
 <div align="center">
 
-**💼 Disponible para proyectos de traducción** | **🌐 Español nativo** | **🔗 Referencias verificables**
+**💼 Open for Translation & Localization Commissions** | **🌐 Native Spanish Speaker** | **🔗 Verified References**
 
 </div>
 
@@ -55,12 +55,12 @@ Contribuyo activamente a proyectos open source de la comunidad blockchain, hacie
 
 ## 🌐 Domain Portfolio
 
-Mi colección de dominios premium, cuidadosamente seleccionados para proyectos innovadores en tecnología, IA, blockchain y más.
+A curated collection of premium domains tailored for innovative ventures in AI, Blockchain, Technology, and beyond.
 
-### 💎 Premium Domains (Alfabético)
+### 💎 Asset Collection (Alphabetical)
 
 <details>
-<summary><b>Ver todos los dominios (120+)</b></summary>
+<summary><b>View Full Portfolio (120+)</b></summary>
 
 #### 🧠 AI & Machine Learning
 - [adlai.xyz](https://adlai.xyz)
@@ -232,11 +232,11 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 
 </details>
 
-### 📊 Portfolio Stats
+### 📊 Portfolio Insights
 
-- **Total Domains**: 120+
-- **Categories**: AI/ML, Blockchain, Business, Health, Creative, Tech, Lifestyle
-- **Premium Extensions**: .ai, .now, .cv, .xyz, .lat, .online, .info, .art, .mom, .works, .baby, .rsvp, .fund, .email, .ninja, .rent, .pro, .locker, .industries, .charity, .football
+- **Total Assets**: 120+ Premium Domains
+- **Core Sectors**: AI/ML, Blockchain, Enterprise, Health, Creative Arts, Tech, Lifestyle
+- **Premium TLDs**: .ai, .now, .cv, .xyz, .lat, .online, .info, .art, .mom, .works, .baby, .rsvp, .fund, .email, .ninja, .rent, .pro, .locker, .industries, .charity, .football
 
 ---
 
@@ -258,12 +258,12 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌐 DNS & Domain Management
+### 🌐 DNS & Domain Engineering
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-Configuration-1C1C1E?style=for-the-badge&logo=dns&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL/TLS-Certificates-009639?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-**Expertise:** DNS configuration, nameserver management, SSL/TLS setup, domain troubleshooting, Cloudflare optimization, DNS record management (A, AAAA, CNAME, MX, TXT, etc.)
+**Core Expertise:** Advanced DNS configuration, nameserver authority management, SSL/TLS certificate provisioning, domain resolution troubleshooting, Cloudflare performance optimization, and comprehensive record management (A, AAAA, CNAME, MX, TXT).
 
 ### 🔐 Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -285,7 +285,7 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
@@ -293,44 +293,44 @@ Mi colección de dominios premium, cuidadosamente seleccionados para proyectos i
 
 ---
 
-## 💼 Services & Availability
+## 💼 Professional Services
 
 <div align="center">
 
-### 🌐 Translation Services
-**Spanish Translation Specialist** | **Blockchain & Web3 Expertise** | **Open Source Contributor**
+### 🌐 Localization Services
+**Spanish Translation Specialist** | **Blockchain & Web3 Authority** | **Open Source Collaborator**
 
-Proven track record with major Ethereum projects. Available for translation projects, localization, and multilingual content creation.
+Proven expertise in localizing major Ethereum projects. Available for high-stakes translation, localization, and technical content creation.
 
-### 🔧 Domain & DNS Setup
+### 🔧 Domain & DNS Architecture
 
-**Description:**
+**Overview:**
 
-I handle the full technical setup of your domain — from DNS configuration and Cloudflare optimization to SSL certificate installation and troubleshooting connection issues. Whether you need to point your domain to a new host, fix email deliverability, or secure your website, I make sure everything works seamlessly.
+I deliver comprehensive technical domain management — from precise DNS configuration and Cloudflare optimization to SSL security and connectivity troubleshooting. Whether migrating hosts, resolving email deliverability, or hardening security, I ensure flawless performance.
 
-**Includes:**
+**Scope of Work:**
 
-- DNS record configuration (A, CNAME, MX, TXT, etc.)
-- Cloudflare setup and optimization
-- SSL certificate activation (HTTPS)
-- Troubleshooting and redirect fixes
-- Domain redirection and propagation checks
+- Advanced DNS Record Configuration (A, CNAME, MX, TXT)
+- Cloudflare Integration & Speed Optimization
+- SSL/TLS Certificate Deployment (HTTPS)
+- Redirect Logic & Propagation Analysis
+- Connectivity Troubleshooting & Resolution
 
-**Ideal for:**
+**Target Client:**
 
-Entrepreneurs, startups, and agencies that want their domain working perfectly — fast and securely.
+Startups, enterprises, and creators who demand secure, zero-latency domain performance.
 
-**Starting price:** 💶 From €50 per setup (depending on complexity)
+**Engagement:** 💶 Starting at €50/setup (Scale dependent)
 
 </div>
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
 <div align="center">
 
-**¿Tienes un proyecto en mente? ¿Necesitas traducciones profesionales o configuración de dominios/DNS? ¡Hablemos!**
+**Have a vision in mind? Need expert localization or domain architecture? Let's engineer the solution.**
 
 [![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rulo.pro)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6difl3)
@@ -343,12 +343,10 @@ Entrepreneurs, startups, and agencies that want their domain working perfectly �
 
 <div align="center">
 
-**⭐ Si encuentras algo interesante, no dudes en darle una estrella**
+**⭐ If you find value in my work, consider starring this repository.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imrulo&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
-Made with ❤️ by [imrulo.eth](https://github.com/imrulo)
+Engineered with ❤️ by [imrulo.eth](https://github.com/imrulo)
 
 </div>
-
-
