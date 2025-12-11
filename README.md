@@ -30,6 +30,21 @@ I engineer digital products that solve tangible problems and generate real value
 
 ---
 
+## 🎙️ Domain Industries Podcast
+
+Not your typical domain podcast. **Domain Industries** dives deep into the evolving world of domain names — from .coms to Web3, from trends to traps.
+
+No hype, no hidden agendas — just honest analysis, market insights, and the conversations investors, builders, and learners deserve.
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Podcast_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=061b71cd4a5e4b14)
+
+</div>
+
+---
+
+
 ## 🌍 Open Source Contributions
 
 I am an active contributor to the open-source blockchain ecosystem, dedicated to making decentralized technology accessible to the Spanish-speaking community.
