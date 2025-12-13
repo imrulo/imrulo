@@ -13,8 +13,6 @@
 
 <a href="https://app.daily.dev/latinverse"><img src="https://api.daily.dev/devcards/v2/zm8QxAp2kTGqYuiu4hynP.png?r=0c0" width="356" alt="imrulo.eth's Dev Card"/></a>
 
----
-
 </div>
 
 ---
