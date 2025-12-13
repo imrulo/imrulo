@@ -21,7 +21,9 @@
 
 ### 🧠 What I Build
 
-I engineer digital products that solve tangible problems and generate real value. My approach bridges cutting-edge technology with user-centric design principles.
+I engineer production-ready digital products that solve tangible problems and generate real value.
+
+I combine product thinking, system design, and AI-assisted workflows to ship fast — while staying responsible for quality, performance, and maintainability.
 
 ### 🔭 Flagship Projects
 
