@@ -49,7 +49,7 @@ I engineer digital products that solve tangible problems and generate real value
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Podcast_on_Spotify-Podcast_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=061b71cd4a5e4b14)
+[![Podcast on Spotify](https://img.shields.io/badge/Listen_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7)
 
 </div>
 
