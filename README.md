@@ -17,22 +17,6 @@
 
 </div>
 
------
-
-
-### ⛏️ What I Build
-
-I engineer digital products that solve tangible problems and generate real value. My approach bridges cutting-edge technology with user-centric design principles.
-
-### 🔭 Flagship Projects
-
-- **[SaveTime.now](https://savetime.now)** - A premier productivity and time management platform.
-- **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions.
-- **[Domain.industries](https://domain.industries)** - Premium domain portfolio and brokerage services.
-- **[Rulo.pro](https://rulo.pro)** - Personal portfolio and professional hub.
-- **[EN S](https://app.ens.domains/imrulo.eth)** - personal ENS landing and presence.
-
-
 ---
 
 ### 🧠 What I Build
