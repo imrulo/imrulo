@@ -25,7 +25,6 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 - **[SaveTime.now](https://savetime.now)** - A premier productivity and time management platform.
 - **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions.
-- **[Rulo.pro](https://rulo.pro)** - Personal portfolio and professional hub.
 - **[ENS](https://app.ens.domains/imrulo.eth)** - personal ENS landing and presence.
 
 <div align="center">
