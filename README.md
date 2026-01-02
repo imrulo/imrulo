@@ -1,59 +1,99 @@
-# 🧐 Hello, I'm **imrulo.eth**
+<div align="center">
 
-> 👋 **Full-Stack Developer | Blockchain Enthusiast | Domain Investor | English-Spanish Translator**
+# 🧐 Hello, I'm imrulo.eth
 
-Where others see challenges, I see opportunities for growth. I engineer production-ready digital products that solve tangible problems and generate real value, combining product thinking and system design to ship fast—while ensuring quality, performance, and maintainability.
+###### 👋 Full-Stack Developer | Blockchain Enthusiast | Domain Investor | English-Spanish Translator
+
+**Where others see challenges, I see opportunities for growth.**
+
+[![Website](https://img.shields.io/badge/Website-rulo.pro-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rulo.pro) [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth) [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth) [![ENS](https://img.shields.io/badge/ENS-imrulo.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/imrulo.eth)
+</div>
 
 ---
 
-## 🔭 Flagship Projects
+### 🧠 What I Build
+
+I engineer production-ready digital products that solve tangible problems and generate real value.
+
+I combine product thinking, system design, and AI-assisted workflows to ship fast — while staying responsible for quality, performance, and maintainability.
+
+### 🔭 Flagship Projects
 
 - **[SaveTime.now](https://savetime.now)** - A premier productivity and time management platform.
-- **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions for enterprise.
-- **[ENS](https://app.ens.domains/imrulo.eth)** - Personal ENS landing and decentralized presence.
+- **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions.
+- **[ENS](https://app.ens.domains/imrulo.eth)** - personal ENS landing and presence.
+
+<div align="center">
 
 ### 🎙️ Latest Project: Domain Industries Podcast
+
+[![Podcast on Spotify](https://img.shields.io/badge/Listen_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white&logoWidth=30)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA)
+
 <a href="https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrulo&repo=imrulo&title=Domain%20Industries&description=The%20Real%20Internet%20Game%20-%20Listen%20on%20Spotify&theme=dark" alt="Domain Industries Podcast" width="100%" />
+    <img src="https://i.scdn.co/image/ab6765630000ba8a7d0e40fc5b38cd2590f33b7c" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" alt="Domain Industries Podcast Cover">
 </a>
-> **Listen Now**: [Domain Industries: The Real Internet Game](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA)
+
+</div>
+
 
 ---
 
-## 🏛️ Open Source & Localization Contributions
+
+### 🏛️ Open Source Contributions
 
 I am an active contributor to the open-source blockchain ecosystem, dedicated to making decentralized technology accessible to the Spanish-speaking community.
 
-### 🌍 Localization Impact
-I spearheaded the complete **Spanish localization** for key Ethereum ecosystem projects, democratizing access for millions of Spanish speakers worldwide.
+### 📚 Localization High-Impact Contributions
 
-- **ENS Domains (Ethereum Name Service)**: Lead translator for documentation and app interface.
-- **EFP (Ethereum Follow Protocol)**: Core contributor to Spanish localization efforts.
+<div align="center">
 
-> **📢 Availability**: I am currently **open for Translation & Localization Commissions**. As a native Spanish speaker with verified references in the blockchain space, I ensure technical accuracy and cultural relevance.
+[![ENS Domains](https://img.shields.io/badge/ENS_Domains-Spanish%20Translation-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](http://ens.domains) [![EFP](https://img.shields.io/badge/EFP-Spanish%20Translation-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)](https://efp.app/)
+</div>
 
----
 
-## 🧩 Tech Stack
+*I spearheaded the complete Spanish localization for [ENS Domains](http://ens.domains) and [EFP](https://efp.app/), two cornerstone projects of the Ethereum ecosystem. These contributions have democratized access to blockchain technology for millions of Spanish speakers worldwide.*
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend & Blockchain
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**— Open for Translation & Localization Commissions —** | **— Native Spanish & Verified References —**
+
+</div>
 
 ---
 
-## 🛡️ Portfolio Insights
+### 🛡️ Portfolio Insights
 
 - **Total Assets**: 120+ Premium Domains
 - **Core Sectors**: AI/ML, Blockchain, Enterprise, Health, Creative Arts, Tech, Lifestyle
-- **Premium TLDs**: `.ai`, `.now`, `.xyz`, `.lat`, `.online`, `.art`, `.pro`
+- **Premium TLDs**: .ai, .now, .cv, .xyz, .lat, .online, .info, .art, .mom, .works, .baby, .rsvp, .fund, .email, .ninja, .rent, .pro, .locker, .industries, .charity, .football
 
 ---
 
-## 💬 Contact & Socials
+### 🧩 Tech Stack
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imrulo) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/imrulo)
+#### Frontend
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 
-<!-- Verified by imrulo.eth -->
+#### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)]() [![Hardhat](https://img.shields.io/badge/Hardhat-FF7A00?style=for-the-badge&logo=hardhat&logoColor=white)]()
+
+---
+
+
+### � Contact & Socials
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rulo.pro) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6difl3) [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth) [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
+</div>
+
+---
+
+<div align="center">
+
+*If you find value in my work, consider starring this repository.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=imrulo&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/imrulo)
+Engineered with ♥ by [imrulo.eth](https://github.com/imrulo)
+
+</div>
