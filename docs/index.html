@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Domain Industries: The Real Internet Game - Podcast by imrulo.eth">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:title" content="Domain Industries: The Real Internet Game">
+    <meta property="og:description" content="Not your typical domain podcast. Deep dives into the evolving world of domain names — from .coms to Web3. Hosted by imrulo.eth.">
+    <meta property="og:image" content="https://i.scdn.co/image/ab6765630000ba8a7d0e40fc5b38cd2590f33b7c">
+    <meta property="og:url" content="https://imrulo.github.io/imrulo/">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="https://i.scdn.co/image/ab6765630000ba8a7d0e40fc5b38cd2590f33b7c">
+
     <title>Domain Industries | Podcast by imrulo.eth</title>
     <style>
         :root {
@@ -252,10 +264,10 @@
 
             <!-- Action Buttons -->
             <div class="actions">
-                <a href="https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA" target="_blank" rel="noopener noreferrer" class="btn btn-primary" aria-label="Listen on Spotify">
-                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.663-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.766 1.29l-.003-.003z"/></svg>
-                    Open in Spotify
-                </a>
+                <button class="spotify-btn-minimal" onclick="openSpotify()" aria-label="Play on Spotify">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+                    <span>Play on Spotify</span>
+                </button>
                 <button class="btn" onclick="sharePodcast()" aria-label="Share this podcast">
                     <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg>
                     Share
@@ -265,6 +277,10 @@
     </main>
 
     <script>
+        function openSpotify() {
+            window.open('https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA', '_blank');
+        }
+
         function sharePodcast() {
             const shareData = {
                 title: 'Domain Industries Podcast',
@@ -280,10 +296,6 @@
                 navigator.clipboard.writeText(shareData.url);
                 alert('Link copied to clipboard!');
             }
-        }
-    </script>
-</body>
-</html>
         }
     </script>
 </body>
