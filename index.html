@@ -173,6 +173,48 @@
             outline: 2px solid var(--accent-color);
             outline-offset: 2px;
         }
+
+        /* Minimalist Spotify Button */
+        .spotify-btn-minimal {
+            background: #1DB954;
+            color: #FFFFFF;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-family: inherit;
+            font-size: 0.95rem;
+            box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);
+            text-decoration: none;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .spotify-btn-minimal:hover {
+            background: #1ed760;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(29, 185, 84, 0.4);
+        }
+
+        .spotify-btn-minimal:active {
+            transform: translateY(0) scale(0.98);
+            box-shadow: 0 2px 10px rgba(29, 185, 84, 0.2);
+        }
+
+        .spotify-btn-minimal svg {
+            width: 24px;
+            height: 24px;
+            fill: currentColor;
+            display: block;
+        }
+        
+        .spotify-btn-minimal span {
+            letter-spacing: 0.5px;
+        }
     </style>
 </head>
 <body>
@@ -238,6 +280,10 @@
                 navigator.clipboard.writeText(shareData.url);
                 alert('Link copied to clipboard!');
             }
+        }
+    </script>
+</body>
+</html>
         }
     </script>
 </body>
