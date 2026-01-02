@@ -27,7 +27,7 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 ### 🎙️ Latest Project: Domain Industries Podcast
 
-[![Podcast on Spotify](https://img.shields.io/badge/Listen_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white&logoWidth=30)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA)
+[![Podcast on Spotify](https://img.shields.io/badge/Listen_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white&logoWidth=30)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA) [![Website](https://img.shields.io/badge/Official_Website-Visit_Now-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://imrulo.github.io/imrulo)
 
 <a href="https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA">
     <img src="https://i.scdn.co/image/ab6765630000ba8a7d0e40fc5b38cd2590f33b7c" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" alt="Domain Industries Podcast Cover">
