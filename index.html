@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Domain Industries: The Real Internet Game - Podcast by imrulo.eth">
+    <title>Domain Industries | Podcast by imrulo.eth</title>
+    <style>
+        :root {
+            --bg-color: #121212;
+            --card-bg: #181818;
+            --text-primary: #FFFFFF;
+            --text-secondary: #B3B3B3;
+            --accent-color: #1DB954;
+            --accent-hover: #1ed760;
+            --spacing-unit: 1rem;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            line-height: 1.6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: var(--spacing-unit);
+        }
+
+        .podcast-container {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+            max-width: 900px;
+            width: 100%;
+            display: grid;
+            grid-template-columns: 1fr;
+            overflow: hidden;
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        @media (min-width: 768px) {
+            .podcast-container {
+                grid-template-columns: 350px 1fr;
+            }
+        }
+
+        .cover-section {
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(145deg, #1e1e1e, #121212);
+        }
+
+        .cover-image {
+            width: 100%;
+            max-width: 300px;
+            aspect-ratio: 1/1;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .cover-image:hover {
+            transform: scale(1.02);
+        }
+
+        .content-section {
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .podcast-header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .podcast-header .publisher {
+            color: var(--accent-color);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
+        }
+
+        .description {
+            color: var(--text-secondary);
+            font-size: 1rem;
+            max-height: 150px;
+            overflow-y: auto;
+            padding-right: 10px;
+        }
+
+        /* Scrollbar styling for description */
+        .description::-webkit-scrollbar {
+            width: 6px;
+        }
+        .description::-webkit-scrollbar-track {
+            background: var(--bg-color); 
+        }
+        .description::-webkit-scrollbar-thumb {
+            background: #555; 
+            border-radius: 3px;
+        }
+
+        .player-wrapper {
+            margin-top: auto;
+            border-radius: 12px;
+            overflow: hidden;
+            background: #000;
+        }
+
+        .actions {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            background-color: transparent;
+            border: 1px solid var(--text-secondary);
+            color: var(--text-primary);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+        }
+
+        .btn:hover {
+            border-color: var(--text-primary);
+            background-color: rgba(255,255,255,0.1);
+        }
+
+        .btn-primary {
+            background-color: var(--accent-color);
+            border-color: var(--accent-color);
+            color: #000;
+            font-weight: 700;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--accent-hover);
+            border-color: var(--accent-hover);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Accessibility focus styles */
+        *:focus-visible {
+            outline: 2px solid var(--accent-color);
+            outline-offset: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <main class="podcast-container" role="main">
+        <!-- Visual Section -->
+        <section class="cover-section">
+            <img src="https://i.scdn.co/image/ab6765630000ba8a7d0e40fc5b38cd2590f33b7c" alt="Cover Art for Domain Industries Podcast" class="cover-image">
+        </section>
+
+        <!-- Content & Player Section -->
+        <section class="content-section">
+            <header class="podcast-header">
+                <span class="publisher">imrulo.eth Presents</span>
+                <h1>Domain Industries: The Real Internet Game</h1>
+                <p class="description">
+                    Not your typical domain podcast. Domain Industries dives deep into the evolving world of domain names — from .coms to Web3, from trends to traps. No hype, no hidden agendas — just honest analysis, market insights, and the conversations investors, builders, and learners deserve.
+                </p>
+            </header>
+
+            <!-- Spotify Embed Player -->
+            <div class="player-wrapper">
+                <iframe 
+                    style="border-radius:12px" 
+                    src="https://open.spotify.com/embed/show/1YDCXbyrVQkHDTwjREdGZ7?utm_source=generator&theme=0" 
+                    width="100%" 
+                    height="152" 
+                    frameBorder="0" 
+                    allowfullscreen="" 
+                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+                    loading="lazy"
+                    title="Spotify Player for Domain Industries">
+                </iframe>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="actions">
+                <a href="https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA" target="_blank" rel="noopener noreferrer" class="btn btn-primary" aria-label="Listen on Spotify">
+                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.663-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.766 1.29l-.003-.003z"/></svg>
+                    Open in Spotify
+                </a>
+                <button class="btn" onclick="sharePodcast()" aria-label="Share this podcast">
+                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg>
+                    Share
+                </button>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        function sharePodcast() {
+            const shareData = {
+                title: 'Domain Industries Podcast',
+                text: 'Check out Domain Industries: The Real Internet Game by imrulo.eth',
+                url: 'https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA'
+            };
+
+            if (navigator.share) {
+                navigator.share(shareData)
+                    .then(() => console.log('Shared successfully'))
+                    .catch((err) => console.log('Error sharing:', err));
+            } else {
+                navigator.clipboard.writeText(shareData.url);
+                alert('Link copied to clipboard!');
+            }
+        }
+    </script>
+</body>
+</html>

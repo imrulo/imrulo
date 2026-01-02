@@ -12,6 +12,12 @@ Where others see challenges, I see opportunities for growth. I engineer producti
 - **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions for enterprise.
 - **[ENS](https://app.ens.domains/imrulo.eth)** - Personal ENS landing and decentralized presence.
 
+### 🎙️ Latest Project: Domain Industries Podcast
+<a href="https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrulo&repo=imrulo&title=Domain%20Industries&description=The%20Real%20Internet%20Game%20-%20Listen%20on%20Spotify&theme=dark" alt="Domain Industries Podcast" width="100%" />
+</a>
+> **Listen Now**: [Domain Industries: The Real Internet Game](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7?si=Q9VOn32WSQePXU4SRgbObA)
+
 ---
 
 ## 🏛️ Open Source & Localization Contributions
