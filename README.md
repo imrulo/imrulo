@@ -6,7 +6,6 @@
 
 **Where others see challenges, I see opportunities for growth.**
 
-[![Website](https://img.shields.io/badge/Website-rulo.pro-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rulo.pro)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 [![ENS](https://img.shields.io/badge/ENS-imrulo.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/imrulo.eth)
@@ -25,7 +24,6 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 - **[SaveTime.now](https://savetime.now)** - A premier productivity and time management platform.
 - **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions.
-- **[Rulo.pro](https://rulo.pro)** - Personal portfolio and professional hub.
 - **[ENS](https://app.ens.domains/imrulo.eth)** - personal ENS landing and presence.
 
 <div align="center">
@@ -114,7 +112,7 @@ The collection features high-value assets across **AI**, **Blockchain**, **Enter
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rulo.pro)
+[![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domain.industries)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6difl3)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
