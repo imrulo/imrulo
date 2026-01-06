@@ -68,14 +68,6 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 
 ---
 
-### 🛡️ Portfolio Insights
-
-- **Total Assets**: 120+ Premium Domains
-- **Core Sectors**: AI/ML, Blockchain, Enterprise, Health, Creative Arts, Tech, Lifestyle
-- **Premium TLDs**: .ai, .now, .cv, .xyz, .lat, .online, .info, .art, .mom, .works, .baby, .rsvp, .fund, .email, .ninja, .rent, .pro, .locker, .indust ries, .charity, .football
-
----
-
 ### 🧩 Tech Stack
 
 #### Frontend
