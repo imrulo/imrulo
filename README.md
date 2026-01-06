@@ -68,20 +68,6 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 
 ---
 
-
-### 🔖 Domain Portfolio
-
-A curated collection of premium domains tailored for innovative ventures in AI, Blockchain, Technology, and beyond.
-
-### 🧾 Premium Assets
-> [!TIP]
-> **View the complete portfolio of 120+ premium domains at [Domain.industries](https://domain.industries)**
-
-The collection features high-value assets across **AI**, **Blockchain**, **Enterprise**, **Health**, **Creative Arts**, **Tech**, **Lifestyle**
-
-
----
-
 ### 🛡️ Portfolio Insights
 
 - **Total Assets**: 120+ Premium Domains
