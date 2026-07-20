@@ -22,9 +22,16 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 ### 🔭 Flagship Projects
 
-- **[SaveTime.now](https://savetime.now)** - A premier productivity and time management platform.
-- **[Janeiro.ai](https://janeiro.ai)** - Advanced artificial intelligence solutions.
-- **[ENS](https://app.ens.domains/imrulo.eth)** - personal ENS landing and presence.
+- **[SaveTime.now](https://savetime.now)** — Productivity and time management platform.
+- **[Janeiro.ai](https://janeiro.ai)** — Artificial intelligence product experience.
+- **[ENS](https://app.ens.domains/imrulo.eth)** — Personal ENS identity and web presence.
+
+### 🧭 Selected Client Work
+
+Production sites shipped for real brands — hospitality and conversion-focused travel experiences.
+
+- **[Maison Soleil](https://www.maisonsoleil.info/)** — Self-catering boutique suites at Anse Soleil, Mahé (Seychelles): direct booking, suites, and island guides.
+- **[Caribbean Party Travel](https://cptravelpe.com/)** — Caribbean travel agency site for packages and personalized bookings (Varadero, Punta Cana, Cancún).
 
 <div align="center">
 
@@ -32,9 +39,7 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 </div>
 
-
 ---
-
 
 ### 🏛️ Open Source Contributions
 
@@ -71,20 +76,18 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 ### 🧩 Tech Stack
 
 #### Frontend
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 #### Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)]
-[![Hardhat](https://img.shields.io/badge/Hardhat-FF7A00?style=for-the-badge&logo=hardhat&logoColor=white)]
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)]
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FF7A00?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
 
 ---
-
 
 ### 💬 Contact & Socials
 
@@ -93,8 +96,6 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 [![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domain.industries)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6difl3)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
-[![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
-[![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 
 </div>

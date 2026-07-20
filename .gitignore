@@ -1,1 +1,30 @@
+# Local / editor scratch (never commit tooling dumps)
+.gemini/
+.cursor/
+.vscode/
+.idea/
+
+# Dependencies & builds
+node_modules/
+.next/
+dist/
+build/
+out/
+coverage/
+*.tsbuildinfo
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Internal notes
 INTERNAL_CHANGELOG.md
