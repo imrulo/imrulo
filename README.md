@@ -28,9 +28,9 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 ### 🧭 Selected Client Work
 
-Production sites shipped for real brands — e-commerce and conversion-focused travel experiences.
+Production sites shipped for real brands — hospitality and conversion-focused travel experiences.
 
-- **[Maison Soleil](https://maison-soleil.fr/)** — Organic, vegan, refillable cosmetics brand on Shopify: catalog, brand storytelling, and checkout.
+- **[Maison Soleil](https://www.maisonsoleil.info/)** — Self-catering boutique suites at Anse Soleil, Mahé (Seychelles): direct booking, suites, and island guides.
 - **[Caribbean Party Travel](https://cptravelpe.com/)** — Caribbean travel agency site for packages and personalized bookings (Varadero, Punta Cana, Cancún).
 
 <div align="center">
@@ -80,7 +80,6 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
 
 #### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
