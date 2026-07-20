@@ -7,7 +7,7 @@
 **Where others see challenges, I see opportunities for growth.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-imrulo.github.io-0A0F14?style=for-the-badge)](https://imrulo.github.io/imrulo/)
-[![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
+[![X](https://img.shields.io/badge/X-@rulodigital-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rulodigital)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 [![ENS](https://img.shields.io/badge/ENS-imrulo.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/imrulo.eth)
 
@@ -124,7 +124,7 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 
 [![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domain.industries)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6difl3)
-[![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
+[![X](https://img.shields.io/badge/X-@rulodigital-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rulodigital)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 
 </div>
