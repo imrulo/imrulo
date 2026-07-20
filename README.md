@@ -48,12 +48,12 @@ Production sites shipped for real brands — hospitality and conversion-focused 
 
 #### Caribbean Party Travel
 <p align="center">
-  <a href="https://cptravelpe.com/">
+  <a href="https://www.caribbeanpartytravel.com/">
     <img src="./docs/assets/caribbean-party-travel-og.jpg" alt="Caribbean Party Travel — Varadero, Punta Cana, Cancún" width="720" />
   </a>
 </p>
 
-**[cptravelpe.com](https://cptravelpe.com/)** — Caribbean travel agency for packages and personalized bookings.
+**[caribbeanpartytravel.com](https://www.caribbeanpartytravel.com/)** — Caribbean travel agency for packages and personalized bookings.
 
 | | |
 | --- | --- |
