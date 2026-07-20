@@ -6,6 +6,7 @@
 
 **Where others see challenges, I see opportunities for growth.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-imrulo.github.io-0A0F14?style=for-the-badge)](https://imrulo.github.io/imrulo/)
 [![Twitter](https://img.shields.io/badge/Twitter-@guinoki__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guinoki_eth)
 [![Warpcast](https://img.shields.io/badge/Warpcast-imrulo.eth-8A63D2?style=for-the-badge)](https://warpcast.com/imrulo.eth)
 [![ENS](https://img.shields.io/badge/ENS-imrulo.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/imrulo.eth)
@@ -30,12 +31,40 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 Production sites shipped for real brands — hospitality and conversion-focused travel experiences.
 
-- **[Maison Soleil](https://www.maisonsoleil.info/)** — Self-catering boutique suites at Anse Soleil, Mahé (Seychelles): direct booking, suites, and island guides.
-- **[Caribbean Party Travel](https://cptravelpe.com/)** — Caribbean travel agency site for packages and personalized bookings (Varadero, Punta Cana, Cancún).
+#### Maison Soleil
+<p align="center">
+  <a href="https://www.maisonsoleil.info/">
+    <img src="./docs/assets/maison-soleil-og.jpg" alt="Maison Soleil — Anse Soleil, Mahé, Seychelles" width="720" />
+  </a>
+</p>
+
+**[maisonsoleil.info](https://www.maisonsoleil.info/)** — Self-catering boutique suites at Anse Soleil, Mahé (Seychelles).
+
+| | |
+| --- | --- |
+| **Problem** | Legacy hospitality presence needed a clearer direct-booking path, suite storytelling, and island guides that convert visitors into inquiries. |
+| **Stack** | Modern marketing site, responsive content architecture, booking inquiry flows, SEO-ready pages. |
+| **Result** | A brand-forward site for suites, art, and south Mahé guides — optimized for direct contact and personal host welcome. |
+
+#### Caribbean Party Travel
+<p align="center">
+  <a href="https://cptravelpe.com/">
+    <img src="./docs/assets/caribbean-party-travel-og.jpg" alt="Caribbean Party Travel — Varadero, Punta Cana, Cancún" width="720" />
+  </a>
+</p>
+
+**[cptravelpe.com](https://cptravelpe.com/)** — Caribbean travel agency for packages and personalized bookings.
+
+| | |
+| --- | --- |
+| **Problem** | The agency needed a conversion-ready web presence for families, couples, and groups booking Varadero, Punta Cana, and Cancún packages. |
+| **Stack** | Marketing site, destination/offer storytelling, lead-capture and contact paths for personalized travel planning. |
+| **Result** | A clear catalog-style experience that routes visitors into personalized booking conversations. |
 
 <div align="center">
 
 [![Podcast on Spotify](https://img.shields.io/badge/Listen_on_Spotify-Domain_Industries-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1YDCXbyrVQkHDTwjREdGZ7)
+[![Portfolio Site](https://img.shields.io/badge/Open_Portfolio-GitHub_Pages-111111?style=for-the-badge)](https://imrulo.github.io/imrulo/)
 
 </div>
 
