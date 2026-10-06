@@ -140,3 +140,9 @@ I am an active contributor to the open-source blockchain ecosystem, dedicated to
 Engineered with ♥ by [imrulo.eth](https://github.com/imrulo)
 
 </div>
+
+<p align="center">
+  <a href="https://makermap.lol/rulodigital">
+    <img src="https://makermap.lol/badge/rulodigital.svg" alt="Connect with me on MakerMap" width="300" height="54" />
+  </a>
+</p>
