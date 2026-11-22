@@ -23,7 +23,7 @@ I combine product thinking, system design, and AI-assisted workflows to ship fas
 
 ### 🔭 Flagship Projects
 
-- **[SaveTime.now](https://savetime.now)** — Productivity and time management platform.
+- **[Rulo.digital](https://rulo.digital)** — Productivity and time management platform.
 - **[Janeiro.ai](https://janeiro.ai)** — Artificial intelligence product experience.
 - **[ENS](https://app.ens.domains/imrulo.eth)** — Personal ENS identity and web presence.
 
